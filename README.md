@@ -27,11 +27,6 @@ I am dev beginner, i have 18 years old, i live in Fortaleza, Brazil, I am always
 <p>
 </p>
 
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=andrewklayver">
-</p>
-
 ## 📊 Github Status
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewklayver&layout=compact"><p>
