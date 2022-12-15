@@ -3,7 +3,6 @@
 I am dev beginner, i have 18 years old, i live in Fortaleza, Brazil, I am always looking to learn and become more professional.
 
 ## 💫 Liitle Bit More About Me
-<p>🔭 I'm currently working on Store - Top acessórios</p>
 <p>📫 How to reach me? aklayver@gmail.com</p>
 <p>⚡ Fun Fact: i love meme and games.</p>
 
